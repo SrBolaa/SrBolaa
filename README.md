@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SrBolaa
-- 👀 Atualmente no foco em aprender JavaScript
+- 👀 Atualmente no foco em aprender tudo sobre Front - End
 - 💞️ Procurando projetos para iniciantes para colaborar e praticar meus conhecimentos
 - 📫 Pode me achar normalmente pelo discord SrBolaa#0762
 
